@@ -1,0 +1,14 @@
+.nav ul {
+  display: flex;
+  justify-content: flex-start;
+  margin: 0;
+}
+
+.nav {
+  background-color: lightblue;
+  margin: 0;
+}
+
+.nav ul li {
+  margin: 5px;
+}

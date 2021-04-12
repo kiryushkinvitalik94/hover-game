@@ -1,0 +1,15 @@
+.hoverSquaresInf {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.hoverSquaresInf span {
+  margin: 2px;
+}
+
+.hoverSquaresInf ul {
+  padding: 0;
+}

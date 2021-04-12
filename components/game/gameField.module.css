@@ -1,0 +1,25 @@
+.fieldContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 80%;
+  align-items: center;
+  margin: 0 auto;
+}
+.fieldContainer .fieldBlock {
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+}
+
+.fieldContainer .fieldRow {
+  display: flex;
+}
+
+.gameFieldWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 90%;
+  margin: 0 auto;
+}

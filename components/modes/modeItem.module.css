@@ -1,0 +1,15 @@
+.modeContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.modeContent {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 200px;
+}
+
+.modeContent span {
+  margin: 10px;
+}
